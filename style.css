@@ -1,0 +1,16 @@
+ul:nth-child(-n+4),li.first:nth-child(3){
+   color: red;
+}
+ul.first>li:nth-child(1){
+   color: red;
+}
+div>p{
+   color: red;
+}
+section>p{
+   color: blue;
+}
+h1+.edge,#MyTitle5:last-child{
+   color: blue;
+}
+
